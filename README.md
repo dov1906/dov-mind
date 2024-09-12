@@ -1,1 +1,2 @@
-# My Personal Website
+# Dov Azogui CV Web Page
+This project is a clean, professional webpage designed to showcase my cv. The webpage features a simple and modern layout that includes key information like education, work experience, and volunteer work. The CV is structured using HTML for content and CSS for styling, making it easy to read and visually appealing.
